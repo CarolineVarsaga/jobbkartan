@@ -36,6 +36,7 @@ Jobbkartan is a web application designed to make job searching more interactive 
 
 > npm i
 > <br>npm run dev
+> <br> _( Note: you will need an API-key from Google Maps )_
 
 ## Authors
 
